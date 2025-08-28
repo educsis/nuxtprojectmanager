@@ -1,5 +1,5 @@
 <template>
   <div>
-    <h1>Calzado Jordan continue</h1>
+    <h1>Calzado Jordan EsLint</h1>
   </div>
 </template>
